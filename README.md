@@ -28,26 +28,29 @@
 
 4. Executive Summary
    ![](Assets/SA%20Airports%20pie%201.png)
+   
    South African Airways (SA) has the most flight records as it's records compose 72.13% of all the flight records... followed by British Airways (BA) composing 3.18% and Mango (JE) composing 2.93% of the records
 
    ![](Assets/SA%20Airports%20bar%203.png)
+   
    The most visited locations are JNB with 82 travels, CPT with 28 travels and DUR with 19 travels.
    
    ![](Assets/SA%20Airports%20bar%201.png)
+   
    JNB has the most flight records traveled from due to JNB composing 54.52% of the flight records, the runner ups CPT compose 13.45% and DUR compose 2.69% of the records. Since JNB has the most flights records we can get more accurate insights on JNB because we have more data on the location. It makes sense to draw more focus of the location JNB
 
    ![](Assets/SA%20Airports%20barh%201-fix_the_loc.png)
+   
    The averages duration of each location travelling from JNB ranges from 00:50H to 17:22H. The locations that take the least amount of time to travel to are LUN - 00:50H, DUR - 00:51H, ZRH - 00:51H and the locations that take the longest to travel to are DAR - 14:11H, WVB - 16:26H and PZB - 17:22H.
 
    ![](Assets/SA%20Airports%20pie%203.png)
+   
    We have 220 Direct flights and 189 Codeshare flights totally, the majority of all records are Direct flights as they make up 53.8% of the records. We can generally expect to see more Direct flights than Codeshared flights.
    
    ![](Assets/SA%20Airports%20pie%204.png)
+   
    We have 140 Direct flights and 83 Codeshare flights travelling from JNB totally. Direct flights make up the majority of flights from JNB making up 62.8% of the records.
 
    ![](Assets/SA%20Airports%20bar%202.png)
-   The furthest locations according to distance travelled are ATL - 8435 km, JFK - 7968 km, SYD - 6846 km, HKG - 6629 km and LHR - 5635 km, the closest locations were PHW - 237 km, BFN - 236 km, MSU - 233 km, HDS - 213 km, MTS - 191 km.
    
-6. Recommendations
-
-   Give a recommendation in regards to each target metric that was analyzed, advice the business on how to improve each metric performance
+   The furthest locations according to distance travelled are ATL - 8435 km, JFK - 7968 km, SYD - 6846 km, HKG - 6629 km and LHR - 5635 km, the closest locations were PHW - 237 km, BFN - 236 km, MSU - 233 km, HDS - 213 km, MTS - 191 km.
