@@ -7,7 +7,8 @@
    - Johannesburg-OR Tambo Inter (JNB)
    - Kimberley Airport (KIM)
    - South African Airways (SA)
-   The Data was aqcuired on Openflights.org and it contains flight records from each relevant airport.
+   
+   The Data was aqcuired on Openflights.org and it is composed of 7 datasets with flight records from each relevant airport.
 
    The purpose of this project is to answer these questions:
    - Which airport  has the most flight records?
@@ -22,11 +23,12 @@
    The main issue encountered in this project was the processing of the dataset as the .csv had been read in such a way that the data in some columns had gotten mixed up with data from other columns.
    The other issue that I met in this project was the positioning of the axis ticks in the charts because in some of the visualisations I would work with many data points on an axis and it would become difficult to see properly.
 
-3. Data Structure
+2. Data Structure
    
-   Entity Relationship Diagrams for each dataset used
+   The 7 datasets are all composed of the same 19 columns that had missing values and mixed column values. The datasets were pre-processed down to 11 columns that had actual data. The dataset structure is as follows:
+   ![](Assets/SA%20AIrports%20ERD.png)
 
-4. Executive Summary
+3. Executive Summary
    ![](Assets/SA%20Airports%20pie%201.png)
    
    South African Airways (SA) has the most flight records as it's records compose 72.13% of all the flight records... followed by British Airways (BA) composing 3.18% and Mango (JE) composing 2.93% of the records
