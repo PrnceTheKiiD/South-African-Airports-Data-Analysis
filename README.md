@@ -8,7 +8,7 @@
    - Kimberley Airport (KIM)
    - South African Airways (SA)
    
-   The Data was aqcuired on Openflights.org and it is composed of 7 datasets with flight records from each relevant airport.
+   The Data was aqcuired on Openflights.org during November 2025 and it is composed of 7 datasets with flight records from each relevant airport.
 
    The purpose of this project is to answer these questions:
    - Which airport  has the most flight records?
@@ -26,7 +26,7 @@
 2. Data Structure
    
    The 7 datasets are all composed of the same 19 columns that had missing values and mixed column values. The datasets were pre-processed down to 11 columns that had actual data. The dataset structure is as follows:
-   ![](Assets/SA%20Alrports%20ERD.png)
+   ![](Assets/SA%20Alrports%20ERD.jpg)
 
 3. Executive Summary
    ![](Assets/SA%20Airports%20pie%201.png)
