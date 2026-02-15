@@ -26,7 +26,7 @@
 2. Data Structure
    
    The 7 datasets are all composed of the same 19 columns that had missing values and mixed column values. The datasets were pre-processed down to 11 columns that had actual data. The dataset structure is as follows:
-   ![](Assets/SA%20Alrports%20ERD.jpg)
+   ![](Assets/SAAirportsERD.png)
 
 3. Executive Summary
    ![](Assets/SA%20Airports%20pie%201.png)
