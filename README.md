@@ -1,4 +1,4 @@
-1. Project Background (& Overview)
+1. Project Background & Overview
 
    Multiple Airports were used as subject in this project, mainly:
    - Bloemfontein-Bram Fischer I. (BFN)
