@@ -44,9 +44,9 @@
    
    JNB has the most flight records traveled from due to JNB composing 54.52% of the flight records, the runner ups CPT compose 13.45% and DUR compose 2.69% of the records. Since JNB has the most flights records we can get more accurate insights on JNB because we have more data on the location. It makes sense to draw more focus of the location JNB
 
-   ![](Assets/SA%20Airports%20barh%201-fix_the_loc.png)
+   ![](Assets/SA%20Airports%20barh%201.png)
    
-   The averages duration of each location travelling from JNB ranges from 00:50H to 17:22H. The locations that take the least amount of time to travel to are LUN - 00:50H, DUR - 00:51H, ZRH - 00:51H and the locations that take the longest to travel to are DAR - 14:11H, WVB - 16:26H and PZB - 17:22H.
+   The averages duration of each location travelling from JNB ranges from 00:50H to 17:22H. The locations that take the least amount of time to travel to are ELL - 00:50H, GBE - 00:51H, PTG- 00:51H and the locations that take the longest to travel to are SYD - 14:11H, JFK - 16:26H and ATL - 17:22H.
 
    ![](Assets/SA%20Airports%20pie%203.png)
    
