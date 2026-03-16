@@ -24,7 +24,6 @@
    ![](Assets/OriginalDataset.png)
    After Pre-Processing
    ![](Assets/Pre-processsedDataset.png)
-   The other issue that I met in this project was the positioning of the axis ticks in the charts because in some of the visualisations I would work with many data points on an axis and it would become difficult to see properly.
 
 3. Data Structure
    
